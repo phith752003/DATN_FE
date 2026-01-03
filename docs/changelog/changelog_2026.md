@@ -43,3 +43,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-03 23:22:21 +0700] fix(store): preserve pagination state during column sorting and text filter
+- Type: `fix`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
