@@ -58,3 +58,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-04 19:45:36 +0700] perf(auth): memoize heavy data grid rows to eliminate unnecessary re-renders
+- Type: `perf`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
