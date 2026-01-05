@@ -78,3 +78,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-05 19:02:38 +0700] style(charts): audit charts implementation parameters
+- Type: `style`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
