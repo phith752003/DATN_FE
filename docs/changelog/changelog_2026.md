@@ -108,3 +108,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-07 14:53:40 +0700] feat(forms): harden forms implementation parameters
+- Type: `feat`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
