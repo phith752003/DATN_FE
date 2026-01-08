@@ -27,3 +27,4 @@
 [2026-01-07 21:00:54 +0700] [COMMIT #23] feat(auth): add interactive sales analytics chart with date range picker [status: ok]
 [2026-01-07 22:20:35 +0700] [COMMIT #24] feat(dashboard): build high-performance virtualized data table for large datasets [status: ok]
 [2026-01-07 22:52:53 +0700] [COMMIT #25] feat(components): align components implementation parameters [status: ok]
+[2026-01-08 12:27:53 +0700] [COMMIT #26] feat(table): support Excel and PDF data export with custom header formatting [status: ok]
