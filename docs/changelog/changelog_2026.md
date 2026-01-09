@@ -158,3 +158,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-09 12:35:59 +0700] fix(routes): handle network error gracefully with retry toast notifications
+- Type: `fix`
+- Scope: `routes`
+- Cycle: 2026 Telemetry Integration
+
