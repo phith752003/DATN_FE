@@ -203,3 +203,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `export`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-12 12:04:19 +0700] feat(api): add multi-language i18n support for English and Vietnamese
+- Type: `feat`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
