@@ -273,3 +273,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-16 18:25:21 +0700] perf(forms): align forms implementation parameters
+- Type: `perf`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
