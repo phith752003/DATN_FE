@@ -278,3 +278,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-16 19:16:24 +0700] refactor(auth): centralize API endpoint definitions with TypeScript interfaces
+- Type: `refactor`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
