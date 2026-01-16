@@ -258,3 +258,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `export`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-16 08:43:14 +0700] fix(api): harden api implementation parameters
+- Type: `fix`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
