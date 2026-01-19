@@ -303,3 +303,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-19 13:13:43 +0700] test(payment): enhance payment implementation parameters
+- Type: `test`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
