@@ -343,3 +343,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `dashboard`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-21 15:54:34 +0700] feat(components): add role-based access control (RBAC) route guard middleware
+- Type: `feat`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
