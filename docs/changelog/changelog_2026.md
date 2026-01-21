@@ -348,3 +348,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-21 16:55:20 +0700] feat(table): streamline table implementation parameters
+- Type: `feat`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
