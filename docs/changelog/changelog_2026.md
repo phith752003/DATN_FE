@@ -373,3 +373,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-22 21:54:14 +0700] perf(store): memoize heavy data grid rows to eliminate unnecessary re-renders
+- Type: `perf`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
