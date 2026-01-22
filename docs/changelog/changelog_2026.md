@@ -358,3 +358,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-22 09:24:30 +0700] fix(payment): preserve pagination state during column sorting and text filter
+- Type: `fix`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
