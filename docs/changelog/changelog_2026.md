@@ -398,3 +398,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `dashboard`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-24 22:44:44 +0700] docs(components): update graduation thesis frontend architecture specification
+- Type: `docs`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
