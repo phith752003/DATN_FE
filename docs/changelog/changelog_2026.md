@@ -408,3 +408,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-26 13:34:37 +0700] test(charts): harden charts implementation parameters
+- Type: `test`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
