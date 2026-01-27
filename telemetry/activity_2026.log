@@ -86,3 +86,4 @@
 [2026-01-26 13:34:37 +0700] [COMMIT #82] test(charts): harden charts implementation parameters [status: ok]
 [2026-01-26 20:43:23 +0700] [COMMIT #83] feat(payment): add multi-language i18n support for English and Vietnamese [status: ok]
 [2026-01-27 09:57:50 +0700] [COMMIT #84] fix(export): correct date format locale parsing in transactional tables [status: ok]
+[2026-01-27 17:08:02 +0700] [COMMIT #85] feat(api): align api implementation parameters [status: ok]
