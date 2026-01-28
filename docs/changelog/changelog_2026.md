@@ -458,3 +458,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-28 18:41:22 +0700] feat(table): build multi-step checkout wizard with client-side form validation
+- Type: `feat`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
