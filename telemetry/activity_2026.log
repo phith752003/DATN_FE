@@ -91,3 +91,4 @@
 [2026-01-27 20:24:49 +0700] [COMMIT #87] feat(routes): build high-performance virtualized data table for large datasets [status: ok]
 [2026-01-27 21:39:24 +0700] [COMMIT #88] feat(forms): verify forms implementation parameters [status: ok]
 [2026-01-28 09:23:23 +0700] [COMMIT #89] feat(auth): support Excel and PDF data export with custom header formatting [status: ok]
+[2026-01-28 10:08:56 +0700] [COMMIT #90] feat(dashboard): add role-based access control (RBAC) route guard middleware [status: ok]
