@@ -483,3 +483,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-30 22:49:01 +0700] perf(store): tune store implementation parameters
+- Type: `perf`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
