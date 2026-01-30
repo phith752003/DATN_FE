@@ -473,3 +473,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-01-30 14:37:47 +0700] fix(export): handle network error gracefully with retry toast notifications
+- Type: `fix`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
