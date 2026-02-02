@@ -518,3 +518,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-02 22:23:32 +0700] feat(charts): add multi-language i18n support for English and Vietnamese
+- Type: `feat`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
