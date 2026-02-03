@@ -528,3 +528,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-03 09:53:05 +0700] feat(export): audit export implementation parameters
+- Type: `feat`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
