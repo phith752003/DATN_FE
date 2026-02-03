@@ -523,3 +523,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-03 09:12:43 +0700] fix(payment): correct date format locale parsing in transactional tables
+- Type: `fix`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
