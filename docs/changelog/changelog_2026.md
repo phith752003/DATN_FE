@@ -533,3 +533,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `export`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-03 16:40:28 +0700] feat(api): add interactive sales analytics chart with date range picker
+- Type: `feat`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
