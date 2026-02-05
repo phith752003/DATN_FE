@@ -578,3 +578,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-05 17:31:52 +0700] fix(payment): handle network error gracefully with retry toast notifications
+- Type: `fix`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
