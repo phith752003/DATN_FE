@@ -118,3 +118,4 @@
 [2026-02-04 21:32:26 +0700] [COMMIT #114] fix(table): preserve pagination state during column sorting and text filter [status: ok]
 [2026-02-05 16:31:59 +0700] [COMMIT #115] fix(charts): align charts implementation parameters [status: ok]
 [2026-02-05 17:31:52 +0700] [COMMIT #116] fix(payment): handle network error gracefully with retry toast notifications [status: ok]
+[2026-02-05 22:48:46 +0700] [COMMIT #117] perf(export): memoize heavy data grid rows to eliminate unnecessary re-renders [status: ok]
