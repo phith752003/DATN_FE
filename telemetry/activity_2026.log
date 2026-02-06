@@ -120,3 +120,4 @@
 [2026-02-05 17:31:52 +0700] [COMMIT #116] fix(payment): handle network error gracefully with retry toast notifications [status: ok]
 [2026-02-05 22:48:46 +0700] [COMMIT #117] perf(export): memoize heavy data grid rows to eliminate unnecessary re-renders [status: ok]
 [2026-02-05 23:16:51 +0700] [COMMIT #118] perf(api): verify api implementation parameters [status: ok]
+[2026-02-06 09:38:38 +0700] [COMMIT #119] refactor(store): centralize API endpoint definitions with TypeScript interfaces [status: ok]
