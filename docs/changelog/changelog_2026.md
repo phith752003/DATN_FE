@@ -613,3 +613,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-09 10:29:16 +0700] chore(dashboard): update Vite build config and ESLint formatting rules
+- Type: `chore`
+- Scope: `dashboard`
+- Cycle: 2026 Telemetry Integration
+
