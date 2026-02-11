@@ -653,3 +653,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-11 20:00:26 +0700] feat(routes): support Excel and PDF data export with custom header formatting
+- Type: `feat`
+- Scope: `routes`
+- Cycle: 2026 Telemetry Integration
+
