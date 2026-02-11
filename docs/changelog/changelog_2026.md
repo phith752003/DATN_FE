@@ -663,3 +663,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-11 22:16:16 +0700] feat(auth): update auth implementation parameters
+- Type: `feat`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
