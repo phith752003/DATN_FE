@@ -673,3 +673,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `dashboard`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-12 09:42:52 +0700] fix(components): preserve pagination state during column sorting and text filter
+- Type: `fix`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
