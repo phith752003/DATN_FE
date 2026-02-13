@@ -693,3 +693,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-13 22:53:35 +0700] perf(export): optimize export implementation parameters
+- Type: `perf`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
