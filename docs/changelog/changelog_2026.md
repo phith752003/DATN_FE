@@ -748,3 +748,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-18 10:32:10 +0700] feat(export): build high-performance virtualized data table for large datasets
+- Type: `feat`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
