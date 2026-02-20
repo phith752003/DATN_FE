@@ -813,3 +813,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-20 23:01:12 +0700] style(store): update store implementation parameters
+- Type: `style`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
