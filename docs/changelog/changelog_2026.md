@@ -803,3 +803,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-20 19:10:42 +0700] refactor(export): centralize API endpoint definitions with TypeScript interfaces
+- Type: `refactor`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
