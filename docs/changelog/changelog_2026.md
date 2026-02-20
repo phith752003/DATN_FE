@@ -808,3 +808,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `export`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-20 20:36:22 +0700] refactor(api): migrate Vuex modules to modular Pinia stores
+- Type: `refactor`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
