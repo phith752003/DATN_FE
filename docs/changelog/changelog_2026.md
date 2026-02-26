@@ -883,3 +883,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-26 15:21:02 +0700] fix(auth): preserve pagination state during column sorting and text filter
+- Type: `fix`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
