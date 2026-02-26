@@ -888,3 +888,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-26 18:23:34 +0700] fix(dashboard): verify dashboard implementation parameters
+- Type: `fix`
+- Scope: `dashboard`
+- Cycle: 2026 Telemetry Integration
+
