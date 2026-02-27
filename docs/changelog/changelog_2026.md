@@ -908,3 +908,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-27 15:10:34 +0700] refactor(payment): centralize API endpoint definitions with TypeScript interfaces
+- Type: `refactor`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
