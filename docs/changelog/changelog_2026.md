@@ -903,3 +903,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-02-27 11:45:24 +0700] perf(charts): enhance charts implementation parameters
+- Type: `perf`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
