@@ -943,3 +943,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-01 19:49:13 +0700] fix(dashboard): correct date format locale parsing in transactional tables
+- Type: `fix`
+- Scope: `dashboard`
+- Cycle: 2026 Telemetry Integration
+
