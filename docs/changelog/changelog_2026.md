@@ -998,3 +998,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-05 18:29:55 +0700] fix(dashboard): handle network error gracefully with retry toast notifications
+- Type: `fix`
+- Scope: `dashboard`
+- Cycle: 2026 Telemetry Integration
+
