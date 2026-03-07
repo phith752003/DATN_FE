@@ -1028,3 +1028,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `export`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-07 12:48:45 +0700] docs(api): update graduation thesis frontend architecture specification
+- Type: `docs`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
