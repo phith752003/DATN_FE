@@ -1068,3 +1068,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-10 18:58:47 +0700] feat(charts): refine charts implementation parameters
+- Type: `feat`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
