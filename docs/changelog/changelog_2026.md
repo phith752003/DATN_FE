@@ -1078,3 +1078,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-11 10:27:45 +0700] feat(export): add role-based access control (RBAC) route guard middleware
+- Type: `feat`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
