@@ -1093,3 +1093,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-11 23:28:27 +0700] fix(routes): preserve pagination state during column sorting and text filter
+- Type: `fix`
+- Scope: `routes`
+- Cycle: 2026 Telemetry Integration
+
