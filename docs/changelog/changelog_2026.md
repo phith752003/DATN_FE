@@ -1098,3 +1098,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-12 13:58:09 +0700] fix(forms): streamline forms implementation parameters
+- Type: `fix`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
