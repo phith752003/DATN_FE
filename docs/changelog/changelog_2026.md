@@ -1133,3 +1133,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-15 11:17:27 +0700] docs(export): update graduation thesis frontend architecture specification
+- Type: `docs`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
