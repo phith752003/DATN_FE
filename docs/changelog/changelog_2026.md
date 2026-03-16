@@ -1153,3 +1153,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-16 19:53:53 +0700] fix(forms): correct date format locale parsing in transactional tables
+- Type: `fix`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
