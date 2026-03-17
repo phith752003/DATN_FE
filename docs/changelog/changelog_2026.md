@@ -1168,3 +1168,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `dashboard`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-17 09:52:10 +0700] feat(components): build high-performance virtualized data table for large datasets
+- Type: `feat`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
