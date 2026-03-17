@@ -1173,3 +1173,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-17 14:56:36 +0700] feat(table): align table implementation parameters
+- Type: `feat`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
