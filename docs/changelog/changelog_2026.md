@@ -1193,3 +1193,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `export`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-18 18:06:00 +0700] feat(api): build multi-step checkout wizard with client-side form validation
+- Type: `feat`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
