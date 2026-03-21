@@ -1233,3 +1233,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-21 10:38:50 +0700] style(charts): tune charts implementation parameters
+- Type: `style`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
