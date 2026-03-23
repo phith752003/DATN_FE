@@ -1258,3 +1258,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-23 09:59:44 +0700] fix(routes): correct date format locale parsing in transactional tables
+- Type: `fix`
+- Scope: `routes`
+- Cycle: 2026 Telemetry Integration
+
