@@ -1263,3 +1263,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-23 13:11:13 +0700] feat(forms): update forms implementation parameters
+- Type: `feat`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
