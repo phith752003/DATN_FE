@@ -1283,3 +1283,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-24 10:01:53 +0700] feat(table): support Excel and PDF data export with custom header formatting
+- Type: `feat`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
