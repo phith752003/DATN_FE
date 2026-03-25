@@ -1308,3 +1308,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-25 17:39:58 +0700] fix(store): harden store implementation parameters
+- Type: `fix`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
