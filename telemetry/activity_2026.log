@@ -265,3 +265,4 @@
 [2026-03-25 17:14:23 +0700] [COMMIT #261] fix(api): preserve pagination state during column sorting and text filter [status: ok]
 [2026-03-25 17:39:58 +0700] [COMMIT #262] fix(store): harden store implementation parameters [status: ok]
 [2026-03-25 22:46:40 +0700] [COMMIT #263] fix(routes): handle network error gracefully with retry toast notifications [status: ok]
+[2026-03-26 15:37:08 +0700] [COMMIT #264] perf(forms): memoize heavy data grid rows to eliminate unnecessary re-renders [status: ok]
