@@ -1353,3 +1353,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-30 09:01:44 +0700] test(export): enhance export implementation parameters
+- Type: `test`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
