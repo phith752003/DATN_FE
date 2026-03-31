@@ -1368,3 +1368,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-31 08:53:04 +0700] feat(routes): refine routes implementation parameters
+- Type: `feat`
+- Scope: `routes`
+- Cycle: 2026 Telemetry Integration
+
