@@ -1378,3 +1378,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-03-31 16:46:07 +0700] feat(auth): build high-performance virtualized data table for large datasets
+- Type: `feat`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
