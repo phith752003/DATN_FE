@@ -1388,3 +1388,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `dashboard`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-01 09:19:38 +0700] feat(components): support Excel and PDF data export with custom header formatting
+- Type: `feat`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
