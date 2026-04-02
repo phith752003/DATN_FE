@@ -285,3 +285,4 @@
 [2026-04-01 20:47:42 +0700] [COMMIT #281] feat(payment): build multi-step checkout wizard with client-side form validation [status: ok]
 [2026-04-02 11:07:56 +0700] [COMMIT #282] fix(export): preserve pagination state during column sorting and text filter [status: ok]
 [2026-04-02 15:36:58 +0700] [COMMIT #283] fix(api): update api implementation parameters [status: ok]
+[2026-04-02 17:23:05 +0700] [COMMIT #284] fix(store): handle network error gracefully with retry toast notifications [status: ok]
