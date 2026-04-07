@@ -297,3 +297,4 @@
 [2026-04-07 13:44:58 +0700] [COMMIT #293] feat(export): add multi-language i18n support for English and Vietnamese [status: ok]
 [2026-04-07 13:48:39 +0700] [COMMIT #294] fix(api): correct date format locale parsing in transactional tables [status: ok]
 [2026-04-07 14:38:25 +0700] [COMMIT #295] feat(store): align store implementation parameters [status: ok]
+[2026-04-07 16:57:03 +0700] [COMMIT #296] feat(routes): add interactive sales analytics chart with date range picker [status: ok]
