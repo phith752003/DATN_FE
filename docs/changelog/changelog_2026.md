@@ -1508,3 +1508,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-09 20:48:05 +0700] feat(charts): build multi-step checkout wizard with client-side form validation
+- Type: `feat`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
