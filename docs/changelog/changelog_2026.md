@@ -1518,3 +1518,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-10 09:32:18 +0700] fix(export): refine export implementation parameters
+- Type: `fix`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
