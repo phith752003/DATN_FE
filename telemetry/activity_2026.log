@@ -310,3 +310,4 @@
 [2026-04-11 12:14:59 +0700] [COMMIT #306] perf(store): memoize heavy data grid rows to eliminate unnecessary re-renders [status: ok]
 [2026-04-11 15:35:57 +0700] [COMMIT #307] perf(routes): tune routes implementation parameters [status: ok]
 [2026-04-11 20:09:17 +0700] [COMMIT #308] refactor(forms): centralize API endpoint definitions with TypeScript interfaces [status: ok]
+[2026-04-13 11:42:00 +0700] [COMMIT #309] refactor(auth): migrate Vuex modules to modular Pinia stores [status: ok]
