@@ -1563,3 +1563,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-14 08:39:31 +0700] test(charts): update charts implementation parameters
+- Type: `test`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
