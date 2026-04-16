@@ -1618,3 +1618,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-16 13:36:31 +0700] fix(charts): preserve pagination state during column sorting and text filter
+- Type: `fix`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
