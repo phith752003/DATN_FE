@@ -1623,3 +1623,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-17 12:47:40 +0700] fix(payment): align payment implementation parameters
+- Type: `fix`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
