@@ -329,3 +329,4 @@
 [2026-04-17 12:47:40 +0700] [COMMIT #325] fix(payment): align payment implementation parameters [status: ok]
 [2026-04-17 15:48:00 +0700] [COMMIT #326] fix(export): handle network error gracefully with retry toast notifications [status: ok]
 [2026-04-17 16:55:09 +0700] [COMMIT #327] perf(api): memoize heavy data grid rows to eliminate unnecessary re-renders [status: ok]
+[2026-04-17 23:24:58 +0700] [COMMIT #328] perf(store): verify store implementation parameters [status: ok]
