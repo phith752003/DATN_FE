@@ -1648,3 +1648,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-18 14:40:18 +0700] refactor(forms): migrate Vuex modules to modular Pinia stores
+- Type: `refactor`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
