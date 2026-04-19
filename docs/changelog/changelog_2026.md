@@ -1668,3 +1668,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-19 16:06:26 +0700] test(table): refine table implementation parameters
+- Type: `test`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
