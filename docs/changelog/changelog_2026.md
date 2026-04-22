@@ -1703,3 +1703,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-22 09:34:03 +0700] feat(forms): support Excel and PDF data export with custom header formatting
+- Type: `feat`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
