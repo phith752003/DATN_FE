@@ -1738,3 +1738,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-24 11:17:38 +0700] perf(export): memoize heavy data grid rows to eliminate unnecessary re-renders
+- Type: `perf`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
