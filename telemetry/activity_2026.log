@@ -354,3 +354,4 @@
 [2026-04-24 21:25:31 +0700] [COMMIT #350] refactor(store): centralize API endpoint definitions with TypeScript interfaces [status: ok]
 [2026-04-24 21:42:17 +0700] [COMMIT #351] refactor(routes): migrate Vuex modules to modular Pinia stores [status: ok]
 [2026-04-25 23:09:20 +0700] [COMMIT #352] style(forms): harden forms implementation parameters [status: ok]
+[2026-04-26 12:58:02 +0700] [COMMIT #353] docs(auth): update graduation thesis frontend architecture specification [status: ok]

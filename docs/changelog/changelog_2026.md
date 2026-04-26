@@ -1763,3 +1763,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-26 12:58:02 +0700] docs(auth): update graduation thesis frontend architecture specification
+- Type: `docs`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
