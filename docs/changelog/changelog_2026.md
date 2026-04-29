@@ -1843,3 +1843,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-29 23:00:50 +0700] perf(payment): memoize heavy data grid rows to eliminate unnecessary re-renders
+- Type: `perf`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
