@@ -1833,3 +1833,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-29 19:28:18 +0700] fix(table): tune table implementation parameters
+- Type: `fix`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
