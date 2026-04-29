@@ -1838,3 +1838,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-29 19:54:19 +0700] fix(charts): handle network error gracefully with retry toast notifications
+- Type: `fix`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
