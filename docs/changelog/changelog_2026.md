@@ -1848,3 +1848,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-04-30 09:21:00 +0700] perf(export): streamline export implementation parameters
+- Type: `perf`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
