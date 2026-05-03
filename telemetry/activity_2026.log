@@ -379,3 +379,4 @@
 [2026-05-01 14:50:20 +0700] [COMMIT #375] chore(auth): update Vite build config and ESLint formatting rules [status: ok]
 [2026-05-01 16:12:04 +0700] [COMMIT #376] test(dashboard): audit dashboard implementation parameters [status: ok]
 [2026-05-02 18:35:25 +0700] [COMMIT #377] feat(components): add multi-language i18n support for English and Vietnamese [status: ok]
+[2026-05-03 12:58:09 +0700] [COMMIT #378] fix(table): correct date format locale parsing in transactional tables [status: ok]

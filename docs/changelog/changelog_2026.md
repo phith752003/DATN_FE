@@ -1888,3 +1888,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-03 12:58:09 +0700] fix(table): correct date format locale parsing in transactional tables
+- Type: `fix`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
