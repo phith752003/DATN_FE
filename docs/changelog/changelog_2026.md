@@ -1913,3 +1913,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-04 18:57:56 +0700] feat(store): support Excel and PDF data export with custom header formatting
+- Type: `feat`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
