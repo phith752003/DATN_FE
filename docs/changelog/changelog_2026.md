@@ -1908,3 +1908,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `export`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-04 17:09:51 +0700] feat(api): harden api implementation parameters
+- Type: `feat`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
