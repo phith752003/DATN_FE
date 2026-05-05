@@ -1923,3 +1923,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-05 09:41:55 +0700] feat(forms): align forms implementation parameters
+- Type: `feat`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
