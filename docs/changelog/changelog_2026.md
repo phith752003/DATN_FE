@@ -1988,3 +1988,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-08 19:58:51 +0700] feat(dashboard): add multi-language i18n support for English and Vietnamese
+- Type: `feat`
+- Scope: `dashboard`
+- Cycle: 2026 Telemetry Integration
+

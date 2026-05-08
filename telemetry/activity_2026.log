@@ -399,3 +399,4 @@
 [2026-05-08 16:02:59 +0700] [COMMIT #395] docs(routes): update graduation thesis frontend architecture specification [status: ok]
 [2026-05-08 18:15:40 +0700] [COMMIT #396] chore(forms): update Vite build config and ESLint formatting rules [status: ok]
 [2026-05-08 19:22:54 +0700] [COMMIT #397] test(auth): tune auth implementation parameters [status: ok]
+[2026-05-08 19:58:51 +0700] [COMMIT #398] feat(dashboard): add multi-language i18n support for English and Vietnamese [status: ok]
