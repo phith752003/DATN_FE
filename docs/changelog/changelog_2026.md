@@ -1968,3 +1968,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-08 13:07:22 +0700] style(store): refine store implementation parameters
+- Type: `style`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
