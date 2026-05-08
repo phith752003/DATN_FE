@@ -1978,3 +1978,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-08 18:15:40 +0700] chore(forms): update Vite build config and ESLint formatting rules
+- Type: `chore`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
