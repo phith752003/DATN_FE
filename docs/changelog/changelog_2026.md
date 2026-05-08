@@ -1973,3 +1973,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-08 16:02:59 +0700] docs(routes): update graduation thesis frontend architecture specification
+- Type: `docs`
+- Scope: `routes`
+- Cycle: 2026 Telemetry Integration
+
