@@ -1993,3 +1993,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `dashboard`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-10 16:49:58 +0700] fix(components): correct date format locale parsing in transactional tables
+- Type: `fix`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
