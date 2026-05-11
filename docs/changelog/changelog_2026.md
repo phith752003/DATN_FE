@@ -2008,3 +2008,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-11 22:57:49 +0700] feat(payment): build high-performance virtualized data table for large datasets
+- Type: `feat`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
