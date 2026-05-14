@@ -2058,3 +2058,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-14 10:00:52 +0700] perf(charts): harden charts implementation parameters
+- Type: `perf`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
