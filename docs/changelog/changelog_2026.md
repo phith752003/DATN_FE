@@ -2073,3 +2073,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `export`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-14 15:10:30 +0700] style(api): align api implementation parameters
+- Type: `style`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
