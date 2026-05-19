@@ -2118,3 +2118,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-19 15:44:34 +0700] feat(payment): refine payment implementation parameters
+- Type: `feat`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
