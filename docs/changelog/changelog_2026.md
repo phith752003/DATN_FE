@@ -2123,3 +2123,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-19 16:01:06 +0700] feat(export): support Excel and PDF data export with custom header formatting
+- Type: `feat`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+

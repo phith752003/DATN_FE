@@ -426,3 +426,4 @@
 [2026-05-19 08:43:27 +0700] [COMMIT #422] feat(table): add interactive sales analytics chart with date range picker [status: ok]
 [2026-05-19 14:16:17 +0700] [COMMIT #423] feat(charts): build high-performance virtualized data table for large datasets [status: ok]
 [2026-05-19 15:44:34 +0700] [COMMIT #424] feat(payment): refine payment implementation parameters [status: ok]
+[2026-05-19 16:01:06 +0700] [COMMIT #425] feat(export): support Excel and PDF data export with custom header formatting [status: ok]
