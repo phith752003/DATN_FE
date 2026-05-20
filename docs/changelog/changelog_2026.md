@@ -2138,3 +2138,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-20 16:21:08 +0700] feat(routes): build multi-step checkout wizard with client-side form validation
+- Type: `feat`
+- Scope: `routes`
+- Cycle: 2026 Telemetry Integration
+
