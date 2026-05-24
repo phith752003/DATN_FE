@@ -2178,3 +2178,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-24 12:34:16 +0700] style(export): audit export implementation parameters
+- Type: `style`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
