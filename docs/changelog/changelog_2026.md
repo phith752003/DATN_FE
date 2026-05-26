@@ -2203,3 +2203,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-26 16:02:13 +0700] fix(auth): correct date format locale parsing in transactional tables
+- Type: `fix`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
