@@ -2223,3 +2223,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-27 12:34:14 +0700] feat(charts): align charts implementation parameters
+- Type: `feat`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
