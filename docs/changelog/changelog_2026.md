@@ -2298,3 +2298,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-30 18:32:56 +0700] test(store): streamline store implementation parameters
+- Type: `test`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
