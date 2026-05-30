@@ -460,3 +460,4 @@
 [2026-05-29 12:35:47 +0700] [COMMIT #456] refactor(charts): migrate Vuex modules to modular Pinia stores [status: ok]
 [2026-05-29 15:21:43 +0700] [COMMIT #457] style(payment): tune payment implementation parameters [status: ok]
 [2026-05-30 08:38:51 +0700] [COMMIT #458] docs(export): update graduation thesis frontend architecture specification [status: ok]
+[2026-05-30 11:50:48 +0700] [COMMIT #459] chore(api): update Vite build config and ESLint formatting rules [status: ok]
