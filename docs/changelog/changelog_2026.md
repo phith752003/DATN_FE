@@ -2303,3 +2303,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-05-31 11:31:51 +0700] feat(routes): add multi-language i18n support for English and Vietnamese
+- Type: `feat`
+- Scope: `routes`
+- Cycle: 2026 Telemetry Integration
+
