@@ -2333,3 +2333,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-02 21:30:55 +0700] feat(charts): support Excel and PDF data export with custom header formatting
+- Type: `feat`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
