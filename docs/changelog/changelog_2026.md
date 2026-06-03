@@ -2343,3 +2343,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-03 10:40:09 +0700] feat(export): optimize export implementation parameters
+- Type: `feat`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
