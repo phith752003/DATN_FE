@@ -478,3 +478,4 @@
 [2026-06-04 11:44:14 +0700] [COMMIT #474] perf(auth): memoize heavy data grid rows to eliminate unnecessary re-renders [status: ok]
 [2026-06-04 19:13:16 +0700] [COMMIT #475] perf(dashboard): align dashboard implementation parameters [status: ok]
 [2026-06-04 19:53:18 +0700] [COMMIT #476] refactor(components): centralize API endpoint definitions with TypeScript interfaces [status: ok]
+[2026-06-04 19:58:33 +0700] [COMMIT #477] refactor(table): migrate Vuex modules to modular Pinia stores [status: ok]
