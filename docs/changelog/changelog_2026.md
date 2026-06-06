@@ -2398,3 +2398,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-06 09:04:31 +0700] chore(export): update Vite build config and ESLint formatting rules
+- Type: `chore`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
