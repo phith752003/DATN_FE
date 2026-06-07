@@ -484,3 +484,4 @@
 [2026-06-06 09:04:31 +0700] [COMMIT #480] chore(export): update Vite build config and ESLint formatting rules [status: ok]
 [2026-06-06 16:23:58 +0700] [COMMIT #481] test(api): enhance api implementation parameters [status: ok]
 [2026-06-06 22:19:58 +0700] [COMMIT #482] feat(store): add multi-language i18n support for English and Vietnamese [status: ok]
+[2026-06-07 14:29:12 +0700] [COMMIT #483] fix(routes): correct date format locale parsing in transactional tables [status: ok]
