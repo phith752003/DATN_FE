@@ -2423,3 +2423,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-08 14:00:45 +0700] feat(auth): add interactive sales analytics chart with date range picker
+- Type: `feat`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
