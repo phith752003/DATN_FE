@@ -2473,3 +2473,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-10 16:29:34 +0700] perf(forms): memoize heavy data grid rows to eliminate unnecessary re-renders
+- Type: `perf`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
