@@ -2508,3 +2508,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-15 12:40:51 +0700] test(export): harden export implementation parameters
+- Type: `test`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
