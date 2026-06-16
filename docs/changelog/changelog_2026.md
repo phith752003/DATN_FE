@@ -2538,3 +2538,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-16 10:11:38 +0700] feat(dashboard): verify dashboard implementation parameters
+- Type: `feat`
+- Scope: `dashboard`
+- Cycle: 2026 Telemetry Integration
+
