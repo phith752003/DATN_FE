@@ -2563,3 +2563,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-18 19:51:27 +0700] fix(export): preserve pagination state during column sorting and text filter
+- Type: `fix`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
