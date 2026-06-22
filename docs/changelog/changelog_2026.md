@@ -2608,3 +2608,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-22 12:10:01 +0700] chore(charts): update Vite build config and ESLint formatting rules
+- Type: `chore`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
