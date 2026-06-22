@@ -2603,3 +2603,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-22 11:19:45 +0700] docs(table): update graduation thesis frontend architecture specification
+- Type: `docs`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
