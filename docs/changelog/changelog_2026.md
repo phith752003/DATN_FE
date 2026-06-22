@@ -2613,3 +2613,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-22 13:51:35 +0700] test(payment): update payment implementation parameters
+- Type: `test`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
