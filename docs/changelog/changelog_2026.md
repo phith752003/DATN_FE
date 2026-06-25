@@ -2673,3 +2673,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-25 15:13:01 +0700] fix(export): align export implementation parameters
+- Type: `fix`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
