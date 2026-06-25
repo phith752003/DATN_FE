@@ -537,3 +537,4 @@
 [2026-06-24 17:45:41 +0700] [COMMIT #533] feat(charts): build multi-step checkout wizard with client-side form validation [status: ok]
 [2026-06-25 12:07:24 +0700] [COMMIT #534] fix(payment): preserve pagination state during column sorting and text filter [status: ok]
 [2026-06-25 15:13:01 +0700] [COMMIT #535] fix(export): align export implementation parameters [status: ok]
+[2026-06-25 15:36:03 +0700] [COMMIT #536] fix(api): handle network error gracefully with retry toast notifications [status: ok]
