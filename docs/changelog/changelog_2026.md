@@ -2718,3 +2718,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-28 09:20:25 +0700] test(charts): refine charts implementation parameters
+- Type: `test`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
