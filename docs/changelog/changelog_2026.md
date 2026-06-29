@@ -2743,3 +2743,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-06-29 19:01:23 +0700] feat(routes): build high-performance virtualized data table for large datasets
+- Type: `feat`
+- Scope: `routes`
+- Cycle: 2026 Telemetry Integration
+
