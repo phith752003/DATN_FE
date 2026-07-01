@@ -2778,3 +2778,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-01 18:25:37 +0700] fix(payment): audit payment implementation parameters
+- Type: `fix`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
