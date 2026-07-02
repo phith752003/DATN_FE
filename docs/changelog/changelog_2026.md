@@ -2798,3 +2798,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-02 20:47:02 +0700] refactor(routes): centralize API endpoint definitions with TypeScript interfaces
+- Type: `refactor`
+- Scope: `routes`
+- Cycle: 2026 Telemetry Integration
+
