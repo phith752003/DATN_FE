@@ -2808,3 +2808,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-03 12:57:45 +0700] style(auth): harden auth implementation parameters
+- Type: `style`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
