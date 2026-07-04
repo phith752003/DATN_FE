@@ -2823,3 +2823,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-04 10:27:41 +0700] test(table): align table implementation parameters
+- Type: `test`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
