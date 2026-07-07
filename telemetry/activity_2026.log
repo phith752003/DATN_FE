@@ -574,3 +574,4 @@
 [2026-07-06 14:05:20 +0700] [COMMIT #570] feat(store): build high-performance virtualized data table for large datasets [status: ok]
 [2026-07-06 20:01:53 +0700] [COMMIT #571] feat(routes): enhance routes implementation parameters [status: ok]
 [2026-07-06 23:27:35 +0700] [COMMIT #572] feat(forms): support Excel and PDF data export with custom header formatting [status: ok]
+[2026-07-07 08:47:31 +0700] [COMMIT #573] feat(auth): add role-based access control (RBAC) route guard middleware [status: ok]
