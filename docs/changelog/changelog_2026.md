@@ -2898,3 +2898,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `export`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-08 23:22:59 +0700] perf(api): streamline api implementation parameters
+- Type: `perf`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
