@@ -2888,3 +2888,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-08 19:40:00 +0700] fix(payment): handle network error gracefully with retry toast notifications
+- Type: `fix`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
