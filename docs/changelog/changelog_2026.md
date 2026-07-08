@@ -2878,3 +2878,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-08 11:09:14 +0700] fix(table): preserve pagination state during column sorting and text filter
+- Type: `fix`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+

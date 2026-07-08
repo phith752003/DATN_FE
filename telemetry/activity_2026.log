@@ -577,3 +577,4 @@
 [2026-07-07 08:47:31 +0700] [COMMIT #573] feat(auth): add role-based access control (RBAC) route guard middleware [status: ok]
 [2026-07-07 11:06:28 +0700] [COMMIT #574] feat(dashboard): refine dashboard implementation parameters [status: ok]
 [2026-07-07 16:13:41 +0700] [COMMIT #575] feat(components): build multi-step checkout wizard with client-side form validation [status: ok]
+[2026-07-08 11:09:14 +0700] [COMMIT #576] fix(table): preserve pagination state during column sorting and text filter [status: ok]
