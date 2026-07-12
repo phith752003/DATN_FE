@@ -2933,3 +2933,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-12 16:10:29 +0700] feat(table): add multi-language i18n support for English and Vietnamese
+- Type: `feat`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
