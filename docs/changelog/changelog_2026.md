@@ -2948,3 +2948,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-13 18:25:03 +0700] feat(export): add interactive sales analytics chart with date range picker
+- Type: `feat`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+

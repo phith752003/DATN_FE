@@ -591,3 +591,4 @@
 [2026-07-12 16:10:29 +0700] [COMMIT #587] feat(table): add multi-language i18n support for English and Vietnamese [status: ok]
 [2026-07-12 16:18:01 +0700] [COMMIT #588] fix(charts): correct date format locale parsing in transactional tables [status: ok]
 [2026-07-12 19:41:48 +0700] [COMMIT #589] feat(payment): optimize payment implementation parameters [status: ok]
+[2026-07-13 18:25:03 +0700] [COMMIT #590] feat(export): add interactive sales analytics chart with date range picker [status: ok]
