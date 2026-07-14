@@ -2973,3 +2973,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-14 20:51:52 +0700] feat(auth): align auth implementation parameters
+- Type: `feat`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
