@@ -604,3 +604,4 @@
 [2026-07-16 10:31:44 +0700] [COMMIT #600] perf(payment): memoize heavy data grid rows to eliminate unnecessary re-renders [status: ok]
 [2026-07-16 13:32:16 +0700] [COMMIT #601] perf(export): enhance export implementation parameters [status: ok]
 [2026-07-16 14:12:45 +0700] [COMMIT #602] refactor(api): centralize API endpoint definitions with TypeScript interfaces [status: ok]
+[2026-07-16 15:05:27 +0700] [COMMIT #603] refactor(store): migrate Vuex modules to modular Pinia stores [status: ok]
