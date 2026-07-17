@@ -3023,3 +3023,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-17 16:38:50 +0700] docs(forms): update graduation thesis frontend architecture specification
+- Type: `docs`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
