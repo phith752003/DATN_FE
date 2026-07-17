@@ -3028,3 +3028,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-17 17:05:03 +0700] chore(auth): update Vite build config and ESLint formatting rules
+- Type: `chore`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
