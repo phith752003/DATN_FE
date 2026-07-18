@@ -3048,3 +3048,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-18 21:59:14 +0700] feat(charts): streamline charts implementation parameters
+- Type: `feat`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
