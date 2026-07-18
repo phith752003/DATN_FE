@@ -3043,3 +3043,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-18 18:14:03 +0700] fix(table): correct date format locale parsing in transactional tables
+- Type: `fix`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
