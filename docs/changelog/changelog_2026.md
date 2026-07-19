@@ -3058,3 +3058,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-19 15:15:02 +0700] feat(export): build high-performance virtualized data table for large datasets
+- Type: `feat`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
