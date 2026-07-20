@@ -3073,3 +3073,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `store`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-20 22:35:31 +0700] feat(routes): add role-based access control (RBAC) route guard middleware
+- Type: `feat`
+- Scope: `routes`
+- Cycle: 2026 Telemetry Integration
+
