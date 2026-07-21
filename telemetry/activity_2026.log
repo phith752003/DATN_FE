@@ -621,3 +621,4 @@
 [2026-07-21 11:36:24 +0700] [COMMIT #617] feat(auth): build multi-step checkout wizard with client-side form validation [status: ok]
 [2026-07-21 13:51:46 +0700] [COMMIT #618] fix(dashboard): preserve pagination state during column sorting and text filter [status: ok]
 [2026-07-21 15:48:07 +0700] [COMMIT #619] fix(components): optimize components implementation parameters [status: ok]
+[2026-07-21 17:28:18 +0700] [COMMIT #620] fix(table): handle network error gracefully with retry toast notifications [status: ok]
