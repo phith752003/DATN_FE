@@ -3148,3 +3148,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `dashboard`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-24 22:37:14 +0700] fix(components): correct date format locale parsing in transactional tables
+- Type: `fix`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
