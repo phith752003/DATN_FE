@@ -3168,3 +3168,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-26 12:52:51 +0700] feat(export): refine export implementation parameters
+- Type: `feat`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
