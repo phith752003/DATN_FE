@@ -3203,3 +3203,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `dashboard`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-28 11:03:21 +0700] fix(components): handle network error gracefully with retry toast notifications
+- Type: `fix`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
