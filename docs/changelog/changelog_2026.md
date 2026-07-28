@@ -3198,3 +3198,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-28 08:37:56 +0700] fix(dashboard): streamline dashboard implementation parameters
+- Type: `fix`
+- Scope: `dashboard`
+- Cycle: 2026 Telemetry Integration
+
