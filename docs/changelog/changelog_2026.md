@@ -3213,3 +3213,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-29 13:23:55 +0700] perf(charts): update charts implementation parameters
+- Type: `perf`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
