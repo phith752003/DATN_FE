@@ -3223,3 +3223,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-07-30 16:21:14 +0700] refactor(export): migrate Vuex modules to modular Pinia stores
+- Type: `refactor`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
