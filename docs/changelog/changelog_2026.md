@@ -3248,3 +3248,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-01 19:24:39 +0700] feat(auth): add multi-language i18n support for English and Vietnamese
+- Type: `feat`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
