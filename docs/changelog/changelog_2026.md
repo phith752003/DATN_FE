@@ -3273,3 +3273,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `charts`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-03 19:31:01 +0700] feat(payment): align payment implementation parameters
+- Type: `feat`
+- Scope: `payment`
+- Cycle: 2026 Telemetry Integration
+
