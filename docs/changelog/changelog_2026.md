@@ -3268,3 +3268,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-03 14:37:28 +0700] feat(charts): build high-performance virtualized data table for large datasets
+- Type: `feat`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
