@@ -3263,3 +3263,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-03 13:52:57 +0700] feat(table): add interactive sales analytics chart with date range picker
+- Type: `feat`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
