@@ -3303,3 +3303,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-06 15:42:40 +0700] fix(auth): enhance auth implementation parameters
+- Type: `fix`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
