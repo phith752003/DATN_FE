@@ -666,3 +666,4 @@
 [2026-08-06 15:44:28 +0700] [COMMIT #662] fix(dashboard): handle network error gracefully with retry toast notifications [status: ok]
 [2026-08-06 15:54:14 +0700] [COMMIT #663] perf(components): memoize heavy data grid rows to eliminate unnecessary re-renders [status: ok]
 [2026-08-06 22:26:16 +0700] [COMMIT #664] perf(table): refine table implementation parameters [status: ok]
+[2026-08-06 22:27:49 +0700] [COMMIT #665] refactor(charts): centralize API endpoint definitions with TypeScript interfaces [status: ok]
