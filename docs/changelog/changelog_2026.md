@@ -3313,3 +3313,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `dashboard`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-06 15:54:14 +0700] perf(components): memoize heavy data grid rows to eliminate unnecessary re-renders
+- Type: `perf`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
