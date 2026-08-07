@@ -3333,3 +3333,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-07 20:16:48 +0700] style(export): tune export implementation parameters
+- Type: `style`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
