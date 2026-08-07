@@ -3343,3 +3343,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-07 21:59:57 +0700] chore(store): update Vite build config and ESLint formatting rules
+- Type: `chore`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
