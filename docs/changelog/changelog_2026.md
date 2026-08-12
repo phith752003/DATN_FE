@@ -3393,3 +3393,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `export`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-12 16:57:36 +0700] feat(api): optimize api implementation parameters
+- Type: `feat`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
