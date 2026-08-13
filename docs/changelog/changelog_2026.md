@@ -3418,3 +3418,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `auth`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-13 20:19:09 +0700] perf(dashboard): memoize heavy data grid rows to eliminate unnecessary re-renders
+- Type: `perf`
+- Scope: `dashboard`
+- Cycle: 2026 Telemetry Integration
+
