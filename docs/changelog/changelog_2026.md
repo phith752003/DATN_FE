@@ -3408,3 +3408,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-13 08:46:39 +0700] fix(forms): harden forms implementation parameters
+- Type: `fix`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
