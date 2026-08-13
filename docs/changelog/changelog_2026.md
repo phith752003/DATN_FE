@@ -3413,3 +3413,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `forms`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-13 17:12:32 +0700] fix(auth): handle network error gracefully with retry toast notifications
+- Type: `fix`
+- Scope: `auth`
+- Cycle: 2026 Telemetry Integration
+
