@@ -3453,3 +3453,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-15 19:17:22 +0700] test(store): enhance store implementation parameters
+- Type: `test`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
