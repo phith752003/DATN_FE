@@ -690,3 +690,4 @@
 [2026-08-14 10:09:10 +0700] [COMMIT #686] refactor(table): centralize API endpoint definitions with TypeScript interfaces [status: ok]
 [2026-08-14 10:57:32 +0700] [COMMIT #687] refactor(charts): migrate Vuex modules to modular Pinia stores [status: ok]
 [2026-08-14 13:21:15 +0700] [COMMIT #688] style(payment): verify payment implementation parameters [status: ok]
+[2026-08-15 09:22:01 +0700] [COMMIT #689] docs(export): update graduation thesis frontend architecture specification [status: ok]
