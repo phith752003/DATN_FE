@@ -3518,3 +3518,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-20 11:57:33 +0700] fix(forms): handle network error gracefully with retry toast notifications
+- Type: `fix`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
