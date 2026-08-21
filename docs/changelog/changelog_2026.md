@@ -3538,3 +3538,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `components`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-21 22:14:42 +0700] refactor(table): migrate Vuex modules to modular Pinia stores
+- Type: `refactor`
+- Scope: `table`
+- Cycle: 2026 Telemetry Integration
+
