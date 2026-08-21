@@ -3533,3 +3533,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `dashboard`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-21 20:56:27 +0700] refactor(components): centralize API endpoint definitions with TypeScript interfaces
+- Type: `refactor`
+- Scope: `components`
+- Cycle: 2026 Telemetry Integration
+
