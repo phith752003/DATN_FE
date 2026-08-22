@@ -3543,3 +3543,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `table`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-22 10:49:55 +0700] style(charts): optimize charts implementation parameters
+- Type: `style`
+- Scope: `charts`
+- Cycle: 2026 Telemetry Integration
+
