@@ -721,3 +721,4 @@
 [2026-08-25 11:24:23 +0700] [COMMIT #717] feat(dashboard): build high-performance virtualized data table for large datasets [status: ok]
 [2026-08-25 13:35:44 +0700] [COMMIT #718] feat(components): verify components implementation parameters [status: ok]
 [2026-08-25 21:11:23 +0700] [COMMIT #719] feat(table): support Excel and PDF data export with custom header formatting [status: ok]
+[2026-08-25 22:46:49 +0700] [COMMIT #720] feat(charts): add role-based access control (RBAC) route guard middleware [status: ok]
