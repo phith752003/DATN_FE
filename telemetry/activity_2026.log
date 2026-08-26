@@ -723,3 +723,4 @@
 [2026-08-25 21:11:23 +0700] [COMMIT #719] feat(table): support Excel and PDF data export with custom header formatting [status: ok]
 [2026-08-25 22:46:49 +0700] [COMMIT #720] feat(charts): add role-based access control (RBAC) route guard middleware [status: ok]
 [2026-08-26 12:43:53 +0700] [COMMIT #721] feat(payment): enhance payment implementation parameters [status: ok]
+[2026-08-26 12:44:47 +0700] [COMMIT #722] feat(export): build multi-step checkout wizard with client-side form validation [status: ok]
