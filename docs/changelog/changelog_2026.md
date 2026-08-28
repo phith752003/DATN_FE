@@ -3663,3 +3663,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `payment`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-08-28 22:23:29 +0700] test(export): update export implementation parameters
+- Type: `test`
+- Scope: `export`
+- Cycle: 2026 Telemetry Integration
+
