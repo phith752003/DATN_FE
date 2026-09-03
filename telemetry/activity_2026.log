@@ -750,3 +750,4 @@
 [2026-09-02 16:20:30 +0700] [COMMIT #746] fix(store): handle network error gracefully with retry toast notifications [status: ok]
 [2026-09-03 09:02:12 +0700] [COMMIT #747] perf(routes): memoize heavy data grid rows to eliminate unnecessary re-renders [status: ok]
 [2026-09-03 16:08:04 +0700] [COMMIT #748] perf(forms): verify forms implementation parameters [status: ok]
+[2026-09-03 22:00:52 +0700] [COMMIT #749] refactor(auth): centralize API endpoint definitions with TypeScript interfaces [status: ok]
