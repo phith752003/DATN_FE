@@ -3738,3 +3738,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `routes`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-09-03 16:08:04 +0700] perf(forms): verify forms implementation parameters
+- Type: `perf`
+- Scope: `forms`
+- Cycle: 2026 Telemetry Integration
+
