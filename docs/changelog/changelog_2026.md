@@ -3783,3 +3783,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `api`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-09-07 10:49:36 +0700] feat(store): tune store implementation parameters
+- Type: `feat`
+- Scope: `store`
+- Cycle: 2026 Telemetry Integration
+
