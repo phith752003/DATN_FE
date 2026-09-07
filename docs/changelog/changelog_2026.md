@@ -3778,3 +3778,8 @@ Maintained by: Hoang Phi <phith752003@users.noreply.github.com>
 - Scope: `export`
 - Cycle: 2026 Telemetry Integration
 
+### [2026-09-07 09:37:38 +0700] fix(api): correct date format locale parsing in transactional tables
+- Type: `fix`
+- Scope: `api`
+- Cycle: 2026 Telemetry Integration
+
